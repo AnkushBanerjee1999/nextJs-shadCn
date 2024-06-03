@@ -1,0 +1,210 @@
+[
+    {
+        "userLogin": "Kunal@digiTwn_Dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1111111111",
+        "userEmail": "kunal.das@keross.com",
+        "userName": "Kunal Das",
+        "userId": "7395ae62-ec77-4e1b-9c9c-f6bdab3f7331",
+        "clientName": "Keross Holding 1"
+    },
+    {
+        "userLogin": "moumita@digitalTwinSuper_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1111111111",
+        "userEmail": "moumita.audhya@keross.com",
+        "userName": "Moumita Audhya",
+        "userId": "ce66e03e-fe9c-449c-90ba-451c8f9d5b80",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "partha@digiTwn_Dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "11111",
+        "userEmail": "partha.dhara@keross.com",
+        "userName": "Partha Dhara",
+        "userId": "b7e11b9d-0611-4d65-a2b2-ea9a032d4095",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "madhurima@digitalTwinSuper_dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "111111111",
+        "userEmail": "madhurima.dey@keross.com",
+        "userName": "Madhurima Dey",
+        "userId": "f592d0e2-8366-499b-b4a3-8f280204740a",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "Anushri@digitwn_dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1022011022",
+        "userEmail": "anushri.dutta@keross.com",
+        "userName": "Anushri Dutta",
+        "userId": "e9e03cfd-2017-4afa-b7a3-f235738f7076",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "baishakhi@digitalTwinSuper_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "11111111",
+        "userEmail": "baishakhi.negel@keross.com",
+        "userName": "Baishakhi Negel",
+        "userId": "a6b4d12f-51b7-4329-bd79-45e7846db522",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "sushmita@digitalTwinSuper_dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "111111111",
+        "userEmail": "sushmita.chakraborty@keross.com",
+        "userName": "Sushmita Chakraborty",
+        "userId": "b38d3d13-1885-4727-9937-2833b96032dc",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "partha@digitalTwinSuper_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "11111111111",
+        "userEmail": "partha.dhara@keross.com",
+        "userName": "Partha Dhara",
+        "userId": "c30d53d2-ab11-4a50-8c0c-768edfad81fb",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "shouvik@digitwn_dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1111111111",
+        "userEmail": "shouvik.misra@keross.com",
+        "userName": "Shouvik Misra",
+        "userId": "c60dcec9-7991-4772-bcb7-67c71e9827bc",
+        "clientName": "Keross Holding 1"
+    },
+    {
+        "userLogin": "sayoni@digitalTwinSuper_dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "11111111111",
+        "userEmail": "sayoni.chatterjee@keross.com",
+        "userName": "Sayoni Chatterjee",
+        "userId": "3fce9a32-b937-4c72-9aff-9471055f5fa5",
+        "clientName": "Keross Holding 1"
+    },
+    {
+        "userLogin": "zainab@digitalTwinSuper_dev",
+        "groupNames": [
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1111111111",
+        "userEmail": "zainab.anwer@keross.com",
+        "userName": "Zainab Anwer",
+        "userId": "d11f3b01-126b-469c-aba6-b0efa5499da0",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "souvik@digitwn_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1111111111",
+        "userEmail": "souvik.mondal@keross.com",
+        "userName": "Souvik Mondal",
+        "userId": "7c47ad7b-4628-495c-a0ea-105e25da133c",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "debraj@digitwn_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "1111111111",
+        "userEmail": "debraj.ghosh@keross.com",
+        "userName": "Debraj Ghosh",
+        "userId": "08248a90-d3e2-46a9-b9f6-4756bde2a569",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "abhishek.ray@digitalTwinSuper_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "11111111",
+        "userEmail": "abhishek.ray@keross.com",
+        "userName": " Abhishek Kumar Ray",
+        "userId": "057d524f-a7cc-44e9-9afc-94ecbb09067a",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "ankush@digitalTwinSuper_dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "11111111",
+        "userEmail": "ankush.banerjee@keross.com",
+        "userName": "Ankush Banerjee",
+        "userId": "b03bf0b4-6f2e-4169-a6eb-1d04dd0c80b2",
+        "clientName": "Keross Holding 2"
+    },
+    {
+        "userLogin": "sanjib@digiTwn_Dev",
+        "groupNames": [
+            "poweruser_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e",
+            "common_client_5d4b5cc5-25a4-41cd-86f3-38232ab47f5e"
+        ],
+        "userActive": true,
+        "userPhone": "9830581425",
+        "userEmail": "sanjib.dolai@keross.com",
+        "userName": "Sanjib Dolai",
+        "userId": "09359d95-5824-4a38-8993-a7542f3df0b6",
+        "clientName": "Keross Holding 1"
+    }
+  ]
